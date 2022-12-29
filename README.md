@@ -1,3 +1,5 @@
+# PDF Document Compiler
+
 The PDF file compiler is a script designed to compile promotion applications in the Sri Lankan University system. In order to use it, you must have 
 - Python 3.0 installed 
 and have the following Python libraries installed via pip: 
