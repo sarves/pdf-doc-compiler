@@ -20,5 +20,6 @@ To use this script:
 - Place the script in the same location as the directory with the PDFs.
 - In line 15 of the script (compiler.py), specify the name of the directory containing the PDFs.
 - Run the script.
+- A pdf with the <directory-name>-paged.pdf will be created in the directory you specified in line 15.
 
 Please note that this software is provided "as is" and comes with no warranty of any kind, express or implied. The authors and copyright holders shall not be held liable for any claims, damages, or other liabilities arising from or in connection with the use of this software.
